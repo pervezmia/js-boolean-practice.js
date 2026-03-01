@@ -157,4 +157,4 @@ console.log(price);
 
 //🟡 Problem 3: Word Length Based Case Change
 const words = ["hi", "hello", "js", "developer", "ok"];
-const wordsUpdate = words.map((w, )) 
+// const wordsUpdate = words.map((w, )) 
